@@ -1,0 +1,1 @@
+//to check whether the given byte of data is palindrome. If ‘yes’ send 00 to Port 0 else send FF to Port 0.
